@@ -1,17 +1,26 @@
 {
   "name": "markdown-front-matter",
   "version": "1.0.0",
-  "description": "Markdown front-matter to json parser",
+  "description": "Markdown front-matter to JSON parser, simple and stable",
+  "keywords": ["frontmatter", "markdown", "front-matter"],
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "egavrilov me@egavrilov.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egavrilov/markdown-front-matter-json"
+  },
+  "author": {
+    "name": "Eugene Gavrilov",
+    "email": "npm@egavrilov.com",
+    "url": "https://egavrilov.com/npm"
   }
 }
