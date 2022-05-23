@@ -1,8 +1,12 @@
 {
   "name": "markdown-front-matter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown front-matter to JSON parser, simple and stable",
-  "keywords": ["frontmatter", "markdown", "front-matter"],
+  "keywords": [
+    "frontmatter",
+    "markdown",
+    "front-matter"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"
