@@ -16,10 +16,16 @@ and output it as a JS object:
 
 ```js
 {
-    frontmatter: {
+    data: {
         slug: "home",
         title: "Hello",
     },
     content: '<h1>Hello world!</h1>'
 }
+```
+
+Installation
+
+```bash
+npm i md-front-matter
 ```
