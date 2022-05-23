@@ -1,0 +1,17 @@
+{
+  "name": "markdown-front-matter",
+  "version": "1.0.0",
+  "description": "Markdown front-matter to json parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "egavrilov me@egavrilov.com",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
