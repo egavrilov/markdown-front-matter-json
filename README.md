@@ -51,3 +51,7 @@ import matter from 'md-front-matter';
 import Image from 'next/image';
 import Link from 'next/link';
 ```
+
+Publishing:
+`npm version patch`
+`npm publish`
