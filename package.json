@@ -1,6 +1,6 @@
 {
   "name": "md-front-matter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Markdown front-matter to JSON parser, simple and stable",
   "keywords": [
     "frontmatter",
